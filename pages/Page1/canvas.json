@@ -108,7 +108,7 @@
                 }
               },
               "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-              "originalBottomRow": 79,
+              "originalBottomRow": 95,
               "defaultSelectedRowIndices": [
                 0
               ],
@@ -125,7 +125,7 @@
               ],
               "dynamicPropertyPathList": [],
               "displayName": "Table",
-              "bottomRow": 95,
+              "bottomRow": 53,
               "columnWidthMap": {
                 "task": 245,
                 "step": 62,
@@ -309,7 +309,8 @@
                   "isDiscardVisible": true,
                   "computedValue": "{{Table1.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"poster\"]))}}",
                   "validation": {},
-                  "cellBackground": ""
+                  "cellBackground": "",
+                  "imageSize": "LARGE"
                 },
                 "customColumn1": {
                   "allowCellWrapping": false,
@@ -1547,7 +1548,8 @@
       }
     ],
     "userPermissions": [],
-    "policies": []
+    "policies": [],
+    "isHidden": true
   },
   "deleted": false,
   "gitSyncId": "63f11e54d616db68c3d45f6c_63f11e54d616db68c3d45f6e"
