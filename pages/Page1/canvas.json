@@ -108,7 +108,7 @@
                 }
               },
               "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-              "originalBottomRow": 94,
+              "originalBottomRow": 98,
               "defaultSelectedRowIndices": [
                 0
               ],
@@ -358,7 +358,7 @@
               "renderMode": "CANVAS",
               "horizontalAlignment": "LEFT",
               "isVisibleSearch": true,
-              "originalTopRow": 20,
+              "originalTopRow": 24,
               "isVisiblePagination": true,
               "verticalAlignment": "CENTER"
             },
@@ -1507,7 +1507,7 @@
               "text": "The Movie Collection",
               "key": "so54w1u6h9",
               "isDeprecated": false,
-              "rightColumn": 17,
+              "rightColumn": 28,
               "textAlign": "LEFT",
               "dynamicHeight": "AUTO_HEIGHT",
               "widgetId": "a90ne4oyq8",
@@ -1521,7 +1521,7 @@
               "originalTopRow": 14,
               "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
               "maxDynamicHeight": 9000,
-              "originalBottomRow": 20,
+              "originalBottomRow": 24,
               "fontSize": "1.875rem",
               "minDynamicHeight": 4
             }
