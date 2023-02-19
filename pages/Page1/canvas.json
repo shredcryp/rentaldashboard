@@ -125,7 +125,7 @@
               ],
               "dynamicPropertyPathList": [],
               "displayName": "Table",
-              "bottomRow": 81,
+              "bottomRow": 67,
               "columnWidthMap": {
                 "task": 245,
                 "step": 62,
@@ -538,7 +538,7 @@
               "onSubmit": "{{update_movie.run(() => get_movies.run(), () => get_movies.run())}}",
               "displayName": "JSON Form",
               "topRow": 7,
-              "bottomRow": 81,
+              "bottomRow": 67,
               "fieldLimitExceeded": false,
               "parentRowSpace": 10,
               "type": "JSON_FORM_WIDGET",
