@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 1290,
+          "bottomRow": 1020,
           "containerStyle": "none",
           "snapRows": 125,
           "parentRowSpace": 1,
@@ -74,7 +74,7 @@
                   "key": "primaryColumns.customColumn1.boxShadow"
                 }
               ],
-              "leftColumn": 0,
+              "leftColumn": 1,
               "delimiter": ",",
               "defaultSelectedRowIndex": 0,
               "accentColor": "{{appsmith.theme.colors.primaryColor}}",
@@ -108,7 +108,7 @@
                 }
               },
               "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-              "originalBottomRow": 95,
+              "originalBottomRow": 94,
               "defaultSelectedRowIndices": [
                 0
               ],
@@ -348,7 +348,7 @@
               },
               "key": "3303mjn9bn",
               "isDeprecated": false,
-              "rightColumn": 38,
+              "rightColumn": 39,
               "textSize": "0.875rem",
               "widgetId": "e8ecchzj3e",
               "tableData": "{{get_movies.data}}",
@@ -1490,7 +1490,7 @@
               "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
               "parentColumnSpace": 26.125,
               "dynamicTriggerPathList": [],
-              "leftColumn": 4,
+              "leftColumn": 1,
               "dynamicBindingPathList": [
                 {
                   "key": "truncateButtonColor"
@@ -1507,7 +1507,7 @@
               "text": "The Movie Collection",
               "key": "so54w1u6h9",
               "isDeprecated": false,
-              "rightColumn": 20,
+              "rightColumn": 17,
               "textAlign": "LEFT",
               "dynamicHeight": "AUTO_HEIGHT",
               "widgetId": "a90ne4oyq8",
