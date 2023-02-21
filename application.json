@@ -11,7 +11,7 @@
   "color": "#C2DAF0",
   "icon": "product",
   "unpublishedAppLayout": {
-    "type": "FLUID"
+    "type": "DESKTOP"
   },
   "publishedAppLayout": {
     "type": "FLUID"
